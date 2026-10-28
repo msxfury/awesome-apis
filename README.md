@@ -1950,6 +1950,7 @@ API | Description | Auth | HTTPS | CORS |
 | [Pulsedive](https://pulsedive.com/api/) | Scan, find and collect threat intelligence data in real-time | `apiKey` | Yes | Unknown |
 | [Sealed Rose](https://sealedrose.com/verify-video) | AI media forensics and synthetic content verification for video, audio, image, and text | `apiKey` | Yes | Yes |
 | [SecurityTrails](https://securitytrails.com/corp/apidocs) | Domain and IP related information such as current and historical WHOIS and DNS records | `apiKey` | Yes | Unknown |
+| [ShieldLabs](https://shieldlabs.ai/) | Device identification and bot, VPN/proxy and account-abuse detection via SDKs and API | `apiKey` | Yes | Unknown |
 | [Shodan](https://developer.shodan.io/) | Find engine for Internet connected devices | `apiKey` | Yes | Unknown |
 | [Spyse](https://spyse-dev.readme.io/reference/quick-start) | Access data on all Internet assets and build powerful attack surface management applications | `apiKey` | Yes | Unknown |
 | [SSL Domain Health Check](https://rapidapi.com/goktugbk/api/ssl-domain-health-check) | SSL certificate validity, domain WHOIS status, and DNS record checks for any domain | `apiKey` | Yes | Unknown |
